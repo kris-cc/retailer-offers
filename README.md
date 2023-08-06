@@ -1,1 +1,1 @@
-# springboot-template
+# retailer-offers
